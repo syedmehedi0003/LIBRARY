@@ -1,0 +1,18 @@
+.footer-tag a {
+    color: rgb(15, 15, 94);
+}
+
+.footer-icon span {
+    font-size: 35px;
+}
+
+.footer-text img {
+    width: 40px;
+    height: 40px;
+    margin-top: 6px;
+}
+
+.underline {
+    color: #02598b;
+    text-decoration: underline;
+}

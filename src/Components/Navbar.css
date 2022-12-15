@@ -1,0 +1,38 @@
+.navbar {
+    background-color: #e1dcc5;
+}
+
+.content p {
+    font-size: 30px;
+    margin-top: 30px;
+    padding: 0px;
+}
+
+.content hr {
+    margin: 0px;
+}
+
+.nav-button a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.input {
+    width: 350px;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.sign-up a {
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+    padding: 5px;
+    border: none;
+    background-color: #0376b8;
+    color: #fff !important;
+    border-radius: 5px;
+}
